@@ -1,0 +1,56 @@
+{
+  "uid" : "c83ab75deadce669",
+  "name" : "Then I print on console the number of product pilas displayed as result of the search",
+  "fullName" : "Search and print results: Search 'Pilas' on Ebay platform and print the number of items from the search results..Then I print on console the number of product pilas displayed as result of the search",
+  "historyId" : "1a487b76cce38ecb811cfd037cca0f45",
+  "time" : {
+    "start" : 1637026279989,
+    "stop" : 1637026280166,
+    "duration" : 177
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Search and print results: Search 'Pilas' on Ebay platform and print the number of items from the search results."
+  }, {
+    "name" : "testClass",
+    "value" : "Search and print results: Search 'Pilas' on Ebay platform and print the number of items from the search results."
+  }, {
+    "name" : "testMethod",
+    "value" : "Then I print on console the number of product pilas displayed as result of the search"
+  }, {
+    "name" : "package",
+    "value" : "Search and print results: Search 'Pilas' on Ebay platform and print the number of items from the search results."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.45"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c83ab75deadce669.json",
+  "parameterValues" : [ "chrome-96.0.4664.45" ]
+}

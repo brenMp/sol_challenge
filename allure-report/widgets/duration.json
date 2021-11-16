@@ -1,0 +1,51 @@
+[ {
+  "uid" : "3b8d05131060899",
+  "name" : "Given I am on Home page",
+  "time" : {
+    "start" : 1637027081787,
+    "stop" : 1637027088569,
+    "duration" : 6782
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5f20970b75c93546",
+  "name" : "When I search for a pilas product",
+  "time" : {
+    "start" : 1637027088569,
+    "stop" : 1637027091811,
+    "duration" : 3242
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d63036a8ff9260a5",
+  "name" : "",
+  "time" : {
+    "start" : 1637027092642,
+    "stop" : 1637027092642,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "326a04234749f9cb",
+  "name" : "Then I print on console the number of product pilas displayed as result of the search",
+  "time" : {
+    "start" : 1637027092113,
+    "stop" : 1637027092642,
+    "duration" : 529
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c1df5e35065c2099",
+  "name" : "Then I wait for the search result to be displayed",
+  "time" : {
+    "start" : 1637027091811,
+    "stop" : 1637027092113,
+    "duration" : 302
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

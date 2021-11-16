@@ -1,0 +1,56 @@
+{
+  "uid" : "4e3be7450108ca39",
+  "name" : "When I search for a pilas product",
+  "fullName" : "Search and print results: Search 'Pilas' on Ebay platform and print the number of items from the search results..When I search for a pilas product",
+  "historyId" : "365df453e03c83985943acd422284beb",
+  "time" : {
+    "start" : 1637026275656,
+    "stop" : 1637026279188,
+    "duration" : 3532
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Search and print results: Search 'Pilas' on Ebay platform and print the number of items from the search results."
+  }, {
+    "name" : "testClass",
+    "value" : "Search and print results: Search 'Pilas' on Ebay platform and print the number of items from the search results."
+  }, {
+    "name" : "testMethod",
+    "value" : "When I search for a pilas product"
+  }, {
+    "name" : "package",
+    "value" : "Search and print results: Search 'Pilas' on Ebay platform and print the number of items from the search results."
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-96.0.4664.45"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4e3be7450108ca39.json",
+  "parameterValues" : [ "chrome-96.0.4664.45" ]
+}

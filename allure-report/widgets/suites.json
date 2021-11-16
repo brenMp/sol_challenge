@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "911ec96256c6c4ec98f11a09b0958163",
+    "name" : "Search and print results: Search 'Pilas' on Ebay platform and print the number of items from the search results.",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 5,
+      "unknown" : 0,
+      "total" : 5
+    }
+  } ]
+}
